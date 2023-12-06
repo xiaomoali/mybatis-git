@@ -35,9 +35,9 @@ public class MyBatisTest {
         System.out.println("result:"+result);
 
 //        int b=10;
-//        int a=20;
+//        int a.txt=20;
 //
-//        Assertions.assertEquals(a+b,30);
+//        Assertions.assertEquals(a.txt+b,30);
 
     }
     @Test
