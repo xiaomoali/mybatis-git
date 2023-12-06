@@ -29,6 +29,7 @@ public class User {
     private Integer age;
     private String sex;
     private String email;
+    private String test;
 
 
 
