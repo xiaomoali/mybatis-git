@@ -1,1 +1,1 @@
-asdsadsa
+mybatis-git=github
