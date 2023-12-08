@@ -31,6 +31,7 @@ public class MyBatisTest {
         UserMapper mapper= sqlSession.getMapper(UserMapper.class);
         int result=mapper.insertUser();
 
+
 //        sqlSession.commit();
         System.out.println("result:"+result);
 
